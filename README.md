@@ -10,7 +10,7 @@ Welcome to Snake Saga! In this classic snake game, you control a snake that must
 
 ## How to Play
 1. Clone this repository.
-2. Run the game in your pyhton environment.
+2. Run the game in your python environment.
 3. Use arrow keys to control the snake.
 
 ## Screenshots
