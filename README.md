@@ -22,5 +22,5 @@ Welcome to Snake Saga! In this classic snake game, you control a snake that must
 - **Power-ups**: Collect power-ups that provide various advantages and add strategic depth to the game.
 - **Customization**: Personalize your snake's appearance and the game environment to suit your preferences.
 
-  ## Contributions
-  Feel free to contribute to this project, suggest new features, or report any issues you encounter. Look forward to making this snake game more enjoyable!🐍🍎
+## Contributions
+Feel free to contribute to this project, suggest new features, or report any issues you encounter. Look forward to making this snake game more enjoyable!🐍🍎
